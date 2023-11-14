@@ -1,0 +1,580 @@
+{
+  "10/26/2023, 5:10:30 PM": {
+    "average": {
+      "carbon": 0.15749999999999997,
+      "percent": 84.33333333333333
+    },
+    "results": [
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/code-standards/automated-code-quality-tools"
+      },
+      {
+        "c": 0.16,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/components/modal"
+      },
+      {
+        "c": 0.18,
+        "p": 82,
+        "url": "https://www.anatomydesignsystem.com/components/cards/product-card"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/components/cards/card-group"
+      },
+      {
+        "c": 0.2,
+        "p": 80,
+        "url": "https://www.anatomydesignsystem.com/components/cards/content-card"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/components/navigation/breadcrumbs"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/resources/about-anatomy"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/content"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/foundations"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/components"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/code-standards"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/resources"
+      }
+    ]
+  },
+  "10/26/2023, 5:12:30 PM": {
+    "average": {
+      "carbon": 0.15687500000000018,
+      "percent": 84.265625
+    },
+    "results": [
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/code-standards/accessibility"
+      },
+      {
+        "c": 0.2,
+        "p": 80,
+        "url": "https://www.anatomydesignsystem.com/resources/community"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/foundations/web-sustainability"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/content/word-list"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/content/inclusive-language"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/resources/release-notes"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/code-standards/javascript"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/code-standards/css"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/code-standards/html"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/code-standards/general"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/code-standards/devops"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/code-standards/automated-code-quality-tools"
+      },
+      {
+        "c": 0.17,
+        "p": 83,
+        "url": "https://www.anatomydesignsystem.com/resources/designers/icon-guidelines"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/components/form-controls/radio-group"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/components/form-controls/checkbox-group"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/components/form-controls/checkbox"
+      },
+      {
+        "c": 0.18,
+        "p": 83,
+        "url": "https://www.anatomydesignsystem.com/foundations/iconography/decorative-icons"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/components/form-controls/text-input"
+      },
+      {
+        "c": 0.16,
+        "p": 84,
+        "url": "https://www.anatomydesignsystem.com/foundations/accessibility"
+      },
+      {
+        "c": 0.16,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/components/modal"
+      },
+      {
+        "c": 0.18,
+        "p": 82,
+        "url": "https://www.anatomydesignsystem.com/components/cards/product-card"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/components/cards/card-group"
+      },
+      {
+        "c": 0.2,
+        "p": 80,
+        "url": "https://www.anatomydesignsystem.com/components/cards/content-card"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/components/button"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/components/link"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/content/content-guidelines"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/components/navigation/breadcrumbs"
+      },
+      {
+        "c": 0.16,
+        "p": 84,
+        "url": "https://www.anatomydesignsystem.com/foundations/typography"
+      },
+      {
+        "c": 0.21,
+        "p": 77,
+        "url": "https://www.anatomydesignsystem.com/resources/designers/libraries"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/components/accordion"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/resources/about-anatomy"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/foundations/anti-patterns"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/foundations/color"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/content/audiences"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/foundations/spacing"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/resources/developers"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/content/error-messaging"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/components/navigation/search"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/components/form-controls/form"
+      },
+      {
+        "c": 0.31,
+        "p": 66,
+        "url": "https://www.anatomydesignsystem.com/components/image"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/components/navigation/wizard-navigation"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/content/grammar"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/components/tag"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/components/navigation/navigation-back-button"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/components/navigation/navigation-link"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/components/navigation/primary-navigation"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/resources/designers/tools-and-links"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/resources/seo"
+      },
+      {
+        "c": 0.16,
+        "p": 84,
+        "url": "https://www.anatomydesignsystem.com/foundations/iconography/system-icons"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/content/voice-and-tone"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/content/punctuation"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/content/case-guidelines"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/components/navigation/skip-link"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/components/dropdown-menu"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/components/tabs"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/components/navigation/tertiary-navigation"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/components/stoplight"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/components/navigation/secondary-navigation"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/content"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/foundations"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/components"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/code-standards"
+      },
+      {
+        "c": 0.15,
+        "p": 85,
+        "url": "https://www.anatomydesignsystem.com/resources"
+      }
+    ]
+  },
+  "10/27/2023, 9:00:02 AM": {
+    "average": {
+      "carbon": null,
+      "percent": null
+    },
+    "results": []
+  },
+  "10/27/2023, 3:00:02 PM": {
+    "average": {
+      "carbon": null,
+      "percent": null
+    },
+    "results": []
+  },
+  "10/28/2023, 3:00:01 PM": {
+    "average": {
+      "carbon": null,
+      "percent": null
+    },
+    "results": []
+  },
+  "10/29/2023, 3:00:02 PM": {
+    "average": {
+      "carbon": null,
+      "percent": null
+    },
+    "results": []
+  },
+  "10/30/2023, 9:00:27 AM": {
+    "average": {
+      "carbon": null,
+      "percent": null
+    },
+    "results": []
+  },
+  "10/30/2023, 3:00:01 PM": {
+    "average": {
+      "carbon": null,
+      "percent": null
+    },
+    "results": []
+  },
+  "10/31/2023, 9:00:02 AM": {
+    "average": {
+      "carbon": null,
+      "percent": null
+    },
+    "results": []
+  },
+  "10/31/2023, 3:00:01 PM": {
+    "average": {
+      "carbon": null,
+      "percent": null
+    },
+    "results": []
+  },
+  "11/1/2023, 9:00:01 AM": {
+    "average": {
+      "carbon": null,
+      "percent": null
+    },
+    "results": []
+  },
+  "11/1/2023, 3:00:02 PM": {
+    "average": {
+      "carbon": null,
+      "percent": null
+    },
+    "results": []
+  },
+  "11/2/2023, 9:00:01 AM": {
+    "average": {
+      "carbon": null,
+      "percent": null
+    },
+    "results": []
+  },
+  "11/2/2023, 3:00:01 PM": {
+    "average": {
+      "carbon": null,
+      "percent": null
+    },
+    "results": []
+  },
+  "11/3/2023, 9:00:02 AM": {
+    "average": {
+      "carbon": null,
+      "percent": null
+    },
+    "results": []
+  },
+  "11/3/2023, 3:00:01 PM": {
+    "average": {
+      "carbon": null,
+      "percent": null
+    },
+    "results": []
+  },
+  "11/6/2023, 9:00:02 AM": {
+    "average": {
+      "carbon": null,
+      "percent": null
+    },
+    "results": []
+  },
+  "11/6/2023, 3:00:01 PM": {
+    "average": {
+      "carbon": null,
+      "percent": null
+    },
+    "results": []
+  },
+  "11/7/2023, 9:03:00 AM": {
+    "average": {
+      "carbon": null,
+      "percent": null
+    },
+    "results": []
+  },
+  "11/7/2023, 3:00:01 PM": {
+    "average": {
+      "carbon": null,
+      "percent": null
+    },
+    "results": []
+  },
+  "11/8/2023, 9:00:01 AM": {
+    "average": {
+      "carbon": null,
+      "percent": null
+    },
+    "results": []
+  },
+  "11/8/2023, 3:00:01 PM": {
+    "average": {
+      "carbon": null,
+      "percent": null
+    },
+    "results": []
+  },
+  "11/9/2023, 9:00:01 AM": {
+    "average": {
+      "carbon": null,
+      "percent": null
+    },
+    "results": []
+  },
+  "11/9/2023, 3:00:01 PM": {
+    "average": {
+      "carbon": null,
+      "percent": null
+    },
+    "results": []
+  },
+  "11/10/2023, 9:00:30 AM": {
+    "average": {
+      "carbon": null,
+      "percent": null
+    },
+    "results": []
+  },
+  "11/11/2023, 3:00:02 PM": {
+    "average": {
+      "carbon": null,
+      "percent": null
+    },
+    "results": []
+  },
+  "11/12/2023, 9:00:01 AM": {
+    "average": {
+      "carbon": null,
+      "percent": null
+    },
+    "results": []
+  },
+  "11/13/2023, 3:00:01 PM": {
+    "average": {
+      "carbon": null,
+      "percent": null
+    },
+    "results": []
+  }
+}
